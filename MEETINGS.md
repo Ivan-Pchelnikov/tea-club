@@ -6,11 +6,23 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
-| 238 | [New Crimea]       | [Black]     | [Warming thyme]             | [Russia]    | Ivan Pchelnikov | 24-09-17 |
-| 237 | [New Crimea]       | [Herbal]    | [Crimean dogwood]           | [Russia]    | Ivan Pchelnikov | 24-09-17 |
-| 236 | [Krasnodarskiy fl] | [Black]     | [Echinacea and lemongrass]  | [Russia]    | Ivan Pchelnikov | 22-09-17 |
-| 235 | [Krasnodarskiy fl] | [Black]     | [Mint and cowberry]         | [Russia]    | Ivan Pchelnikov | 22-09-17 |
-| 234 | [Krasnodarskiy fl] | [Black]     | [Cornflower and lemon balm] | [Russia]    | Ivan Pchelnikov | 20-09-17 |
+| 250 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Felicia H.      | 20-10-17 |
+| 249 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Felicia H.      | 18-10-17 |
+| 248 | -                  | [Green]     | Gaoshan Tea                 | [Taiwan]    | Michael Tong    | 16-10-17 |
+| 247 | [T2]               | [Herbal]    | [Totally Appletini]         | -           | Sally Garton    | 16-10-17 |
+| 246 | [Tetley]           | [Herbal]    | [Infused Passionfruit]      | [Australia] | Felicia H.      | 13-10-17 |
+| 245 | [Shou Zhuo]        | [Pu-erh]    | Dianhong                    | [China]     | Michael Chu     | 13-10-17 |
+| 244 | [Numero Uno]       | [Black]     | [Numero Uno Masala Chai]    | [India]     | Gary Butler     | 11-10-17 |
+| 243 | [Twinings]         | [Herbal]    | [Camomile & Spiced Apple]   | -           | Jesse Smit      | 09-10-17 |
+| 242 | [T2]               | [Black]     | [Blue Mountain]             | [Australia] | Felicia H.      | 06-10-17 |
+| 241 | [Basilur]          | [Green]     | [Love Story Volume I]       | [Sri Lanka] | Ruslan Kazakov  | 06-10-17 |
+| 240 | [T2]               | [Herbal]    | [Colada Paradiso]           | -           | Sally Garton    | 04-10-17 |
+| 239 | [T2]               | [Herbal]    | [Cosmo Crush]               | -           | Sally Garton    | 27-09-17 |
+| 238 | [Noviy Krym]       | [Black]     | [Warming Thyme]             | [Russia]    | Ivan Pchelnikov | 25-09-17 |
+| 237 | [Noviy Krym]       | [Herbal]    | [Crimean Dogwood]           | [Russia]    | Ivan Pchelnikov | 25-09-17 |
+| 236 | [Dobrynia Tea]     | [Black]     | [Echinacea & Lemongrass]    | [Russia]    | Ivan Pchelnikov | 22-09-17 |
+| 235 | [Dobrynia Tea]     | [Black]     | [Mint & Lingonberry]        | [Russia]    | Ivan Pchelnikov | 22-09-17 |
+| 234 | [Dobrynia Tea]     | [Black]     | [Cornflower & Lemon Balm]   | [Russia]    | Ivan Pchelnikov | 20-09-17 |
 | 233 | [Tealeaves]        | [Black]     | [Adam & Eve's Garden]       | [Sri Lanka] | Ruslan Kazakov  | 20-09-17 |
 | 232 | [Pickwick]         | [Herbal]    | [Fruit Fusion Mango]        | [Holland]   | Marlouk Stek    | 18-09-17 |
 | 231 | Butterfly Brand    | [Oolong]    | Fujian Oolong               | [China]     | Mamatha R.      | 15-09-17 |
@@ -118,7 +130,7 @@
 | 129 | [MightyLeaf]       | [Green]     | [Green Tea Tropical]        | [China]     | Cris Gladly     | 03-03-17 |
 | 128 | [T2]               | [Black]     | [Banana Bake]               | -           | Kate Andrews    | 01-03-17 |
 | 127 | [Adore Tea]        | [Black]     | [Cherry Ripe]               | [India]     | Gary Butler     | 22-02-17 |
-| 126 | [Novyi Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Ivan Pchelnikov | 13-02-17 |
+| 126 | [Noviy Krym]       | [Herbal]    | [Roseship Filler]           | [Russia]    | Ivan Pchelnikov | 13-02-17 |
 | 125 | [Tealeaves]        | [Black]     | [Devonshire Cream]          | [China]     | Gary Butler     | 10-02-17 |
 | 124 | [Mrs Oldbucks]     | [Black]     | [Bushfire Caravan]          | -           | Gary Butler     | 08-02-17 |
 | 123 | [Princess Java]    | [Herbal]    | [Carcade]                   | [Sudan]     | Ivan Pchelnikov | 06-02-17 |
@@ -256,6 +268,7 @@
 [Dafolongjing]: http://www.dflj.cn
 [Disney]: http://www.disney.com.au
 [Dilmah]: http://www.dilmahtea.com
+[Dobrynia Tea]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Efuton]: http://www.efuton.com
 [Hansung KMT]: http://www.kmt.com.my
 [Hema]: http://www.hemashop.com/gb
@@ -266,11 +279,11 @@
 [Golden Tips]: http://www.goldentipstea.com
 [Dragon Leaf]: http://www.dragon-leaf.com
 [Krasnodarskiy]: http://www.krdtea.com
-[Krasnodarskiy fl]: http://www.dobrynia-tea.com/trademark.php?code=52
 [Kuban Tea]: http://www.kubantea.ru
 [Kunitaro]: http://www.kunitaro.co.jp
 [Life of Cha]: https://www.lifeofcha.com.au
 [Lipton]: http://www.liptontea.com
+[Love Tea]: https://lovetea.com.au
 [Lupicia]: http://www.lupicia.com.au
 [MightyLeaf]: http://www.mightyleaf.com
 [Miss Dong's]: http://www.travelsignpostschina.com/destination/picture.php/chongqing-ciqikou-DSC6334
@@ -279,7 +292,8 @@
 [Neo Australia]: http://www.neoaustralia.com.au
 [Nomurasangyo]: http://www.nihoncha.co.jp
 [Nourish & Nest]: http://nourish-and-nest.myshopify.com
-[New Crimea]: http://crimeantea.ru
+[Noviy Krym]: http://crimeantea.ru
+[Numero Uno]: https://www.numerouno.com.au
 [Qualitea]: http://www.quali-tea.com
 [Pickwick]: https://www.pickwicktea.com
 [Princess Java]: http://www.java-tea.ru
@@ -295,7 +309,7 @@
 [Starbucks]: http://store.starbucks.co.uk/tea/tea,en_GB,sc.html?cm_sp=HPB2UK-_-tea-_-051517&cm_mc_uid=89081148590814993007389&cm_mc_sid_90398108=1499300738
 [Symingtons]: http://www.symingtons.com
 [T2]: http://www.t2tea.com
-[Love Tea]: https://lovetea.com.au
+[Tetley]: http://www.tetley.com.au
 [Taylors]: https://www.taylorsofharrogate.com
 [Tea Cosy]: http://theteacosy.bigcartel.com
 [Tealeaves]: http://www.tealeaves.com.au
@@ -310,7 +324,21 @@
 [Yuyupas]: http://www.yuyupas.com
 
 <!-- Name -->
-[Cornflower and lemon balm]: http://www.dobrynia-tea.com/unit.php?code=283
+[Mango & Strawberry]: https://shop.coles.com.au/a/a-national/product/tetley-infusions-mango-strawberry-tea-bags-18-pack
+[Life of Cha Lite]: https://www.lifeofcha.com.au/products/lite
+[Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html
+[Infused Passionfruit]: https://www.woolworths.com.au/shop/productdetails/426427/tetley-pyramid-infused-passionfruit
+[Numero Uno Masala Chai]: https://www.numerouno.com.au/products/masala-chai
+[Camomile & Spiced Apple]: https://www.woolworths.com.au/shop/productdetails/791148/twinings-spiced-apple-infused-chamomile-tea-bags
+[Blue Mountain]: https://www.t2tea.com/en/au/tea/black-tea/blue-mountain-loose-leaf-gift-cube-T125AE004.html
+[Love Story Volume I]: http://www.ruskiwaydeli.com.au/basilur-tea-book-love-story-vol.1-green-tea-100g
+[Colada Paradiso]: http://www.t2tea.com/en/us/tea/colada-paradiso-loose-leaf-tisane-colada_paradiso.html
+[Cosmo Crush]: http://www.t2tea.com/en/ca/tea/cosmo-crush-loose-leaf-tisane-cosmo_crush.html
+[Warming Thyme]: http://crimeantea.ru/news/portfolio/chabrets-sogrevayushhij-250g
+[Crimean Dogwood]: http://crimeantea.ru/news/portfolio/kizil-krymskij-250g
+[Echinacea & Lemongrass]: http://www.dobrynia-tea.com/unit.php?code=278
+[Mint & Lingonberry]: http://www.dobrynia-tea.com/unit.php?code=280
+[Cornflower & Lemon Balm]: http://www.dobrynia-tea.com/unit.php?code=283
 [Fruit Fusion Mango]: https://www.pickwick.nl/thee/fruit/mango/
 [Twinings Digest]: https://www.woolworths.com.au/Shop/ProductDetails/575845/twinings-digest
 [Moroccan Green]: https://www.hemashop.com/gb/shop/cooking-dining/coffee-tea/tea/green-tea-moroccan-fair-trade-(60900098)?variant=60900098
