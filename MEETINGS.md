@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Tea Master      | Date     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------|----------|
+| 252 | [Yachai]           | [Flower]    | [Green flowering tea]       | [China]     | Ivan Pchelnikov | 25-10-17 |
 | 251 | [Golden Harvest]   | [oolong]    | [Green Tea milk]            | [China]     | Ivan Pchelnikov | 23-10-17 |
 | 250 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Felicia H.      | 20-10-17 |
 | 249 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Felicia H.      | 18-10-17 |
@@ -323,8 +324,10 @@
 [Wedgwood]: http://www.wedgwood.com.au
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
+[Yachai]: http://yachai.ru/
 
 <!-- Name -->
+[Green flowering tea]: http://yachai.ru/shop/portion/#knitted
 [Mango & Strawberry]: https://shop.coles.com.au/a/a-national/product/tetley-infusions-mango-strawberry-tea-bags-18-pack
 [Life of Cha Lite]: https://www.lifeofcha.com.au/products/lite
 [Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html

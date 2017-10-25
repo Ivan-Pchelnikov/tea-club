@@ -6,6 +6,7 @@
 
 |  #  | Brand              | Type        | Name                        | Origin      | Flavour                     |
 |-----|--------------------|-------------|-----------------------------|-------------|-----------------------------|
+| 235 | [Yachai]           | [Flower]    | [Green flowering tea]       | [China]     | Clover                      |
 | 234 | [Golden Harvest]   | [Oolong]    | [Green Tea milk]            | [China]     | Milk                        |
 | 233 | [Tetley]           | [Herbal]    | [Mango & Strawberry]        | [Australia] | Mango, Strawberry           |
 | 232 | [Life of Cha]      | [Herbal]    | [Life of Cha Lite]          | [China]     | Hawthorn, Dandelion, Fennel |
@@ -306,8 +307,10 @@
 [Wedgwood]: http://www.wedgwood.com.au
 [Yu Zhi]: http://www.tmhyz.com
 [Yuyupas]: http://www.yuyupas.com
+[Yachai]: http://yachai.ru/
 
 <!-- Name -->
+[Green flowering tea]: http://yachai.ru/shop/portion/#knitted
 [Mango & Strawberry]: https://shop.coles.com.au/a/a-national/product/tetley-infusions-mango-strawberry-tea-bags-18-pack
 [Life of Cha Lite]: https://www.lifeofcha.com.au/products/lite
 [Totally Appletini]: http://www.t2tea.com/en/uk/tea/totally-appletini-totally_appletini.html
